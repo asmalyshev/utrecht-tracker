@@ -1,0 +1,7 @@
+{
+  "telegram_chat_id": "<CHAT_ID_HERE>",
+  "telegram_status_message_id": "<MESSAGE_ID_HERE>",
+  "telegram_bot_api_token": "<BOT_TOKEN_HERE>",
+  "gemeente_request_url": "<CITY_GEMEENTE_REQUEST_URL_HERE>",
+  "gemeente_reservation_url": "<CITY_GEMEENTE_RESERVATION_URL_HERE>"
+}
